@@ -2,7 +2,7 @@
 
 An unofficial tool that simulates how your unit scores combine to form a final cash-in result for Edexcel IAL Maths & Further Maths.
 
-**[👉 Click Here to Use the Tool](https://daniel130170.github.io/edx-ial-cashin-preview/)**
+**[Click Here to Use the Tool](https://daniel130170.github.io/ums-cashin-calculator/)**
 
 ---
 
